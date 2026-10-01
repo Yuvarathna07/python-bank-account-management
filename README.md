@@ -1,2 +1,21 @@
-# python-bank-account-management
-beginner-friendly, menu-driven bank account management system built with Python and object-oriented programming. Supports customer creation, account search, balance display, deposits, and withdrawals.
+# Bank Account Management System
+
+A beginner-friendly, menu-driven banking project built with Python and OOP.
+
+## Features
+
+- Add customers
+- Display customer details
+- Deposit money
+- Withdraw money
+- Search for an account
+
+## How to Run
+
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run:
+
+   ```bash
+   python bank_account_system.py
