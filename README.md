@@ -18,4 +18,7 @@ A beginner-friendly, menu-driven banking project built with Python and OOP.
 4. Run:
 
    ```bash
-   python bank_account_system.py
+   Bank_account Project.py
+
+Note
+This is a learning project. Account data is stored only while the program is running.
